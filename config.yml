@@ -1,0 +1,5 @@
+drop_pepsicocas:
+    global: true
+drop_more_pepsicocas:
+    users: user1, user2, user3
+    groups: group1, group2
