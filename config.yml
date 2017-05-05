@@ -1,7 +1,10 @@
 drop_pepsicocas:
-    org: test
-    global: true
+    test:
+        global: true
 drop_more_pepsicocas:
-    org: test
-    users: user1, user2, user3
-    groups: group1, group2
+    test:
+        users: user1, user2, user3
+        groups: group1, group2
+    test2:
+        users: userA, userB, userC
+        groups: groupA, groupB
