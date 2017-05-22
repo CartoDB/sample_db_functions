@@ -1,6 +1,6 @@
 drop_pepsicocas:
-    cdb-test-org:
+    test:
         global: true
 drop_more_pepsicocas:
-    cdb-test-org:
-        users: alex
+    test:
+        users: alex-test
