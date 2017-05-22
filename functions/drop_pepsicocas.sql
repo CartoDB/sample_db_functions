@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION {schema}.drop_pepsicocas()
+fdgdfsgfdsgCREATE OR REPLACE FUNCTION {schema}.drop_pepsicocas()
  RETURNS void
  LANGUAGE plpgsql
 AS $function$
