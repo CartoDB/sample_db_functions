@@ -1,5 +1,5 @@
 drop_pepsicocas:
-    test:
+    cdb-test-org:
         global: true
 drop_more_pepsicocas:
     cdb-test-org:
